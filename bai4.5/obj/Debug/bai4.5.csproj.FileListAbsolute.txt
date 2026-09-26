@@ -1,0 +1,11 @@
+C:\Users\nguye\Downloads\bai4.5\bin\Debug\bai4.5.exe.config
+C:\Users\nguye\Downloads\bai4.5\bin\Debug\bai4.5.exe
+C:\Users\nguye\Downloads\bai4.5\bin\Debug\bai4.5.pdb
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4.5.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4._5.Form1.resources
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4._5.FormRegister.resources
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4._5.Properties.Resources.resources
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4.5.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4.5.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4.5.exe
+C:\Users\nguye\Downloads\bai4.5\obj\Debug\bai4.5.pdb
